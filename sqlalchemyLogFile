@@ -1,0 +1,84 @@
+[2022-10-27 15:54:26,735] python INFO  Library sqlalchemy | Batch Size : 100 | Start Time 2022-10-27 15:54:26.735029
+[2022-10-27 15:54:27,504] python INFO  Library sqlalchemy | Batch Size : 100 | End Time 2022-10-27 15:54:27.504047
+[2022-10-27 15:54:27,504] python INFO
+        ---------------------------
+                    Report
+        ---------------------------
+
+        Library                     : sqlalchemy
+        Batch Size                  : 100
+        Total Execution Time        : 0:00:00.769018
+        Total Execution Time Sec    : 0.769018
+        Total Execution Time MS    : 769.018
+
+
+[2022-10-27 15:55:00,895] python INFO  Library sqlalchemy | Batch Size : 500 | Start Time 2022-10-27 15:55:00.895925
+[2022-10-27 15:55:01,032] python INFO  Library sqlalchemy | Batch Size : 500 | End Time 2022-10-27 15:55:01.032460
+[2022-10-27 15:55:01,032] python INFO
+        ---------------------------
+                    Report
+        ---------------------------
+
+        Library                     : sqlalchemy
+        Batch Size                  : 500
+        Total Execution Time        : 0:00:00.136535
+        Total Execution Time Sec    : 0.136535
+        Total Execution Time MS    : 136.535
+
+
+[2022-10-27 15:56:05,370] python INFO  Library sqlalchemy | Batch Size : 1000 | Start Time 2022-10-27 15:56:05.370252
+[2022-10-27 15:56:05,491] python INFO  Library sqlalchemy | Batch Size : 1000 | End Time 2022-10-27 15:56:05.491894
+[2022-10-27 15:56:05,491] python INFO
+        ---------------------------
+                    Report
+        ---------------------------
+
+        Library                     : sqlalchemy
+        Batch Size                  : 1000
+        Total Execution Time        : 0:00:00.121642
+        Total Execution Time Sec    : 0.121642
+        Total Execution Time MS    : 121.642
+
+
+[2022-10-27 16:07:27,706] python INFO  Library sqlalchemy | Batch Size : 10000 | Start Time 2022-10-27 16:07:27.706717
+[2022-10-27 16:07:28,340] python INFO  Library sqlalchemy | Batch Size : 10000 | End Time 2022-10-27 16:07:28.340240
+[2022-10-27 16:07:28,340] python INFO
+        ---------------------------
+                    Report
+        ---------------------------
+
+        Library                     : sqlalchemy
+        Batch Size                  : 10000
+        Total Execution Time        : 0:00:00.633523
+        Total Execution Time Sec    : 0.633523
+        Total Execution Time MS    : 633.5229999999999
+
+
+[2022-10-27 16:40:57,918] python INFO  Library sqlalchemy | Batch Size : 30000 | Start Time 2022-10-27 16:40:57.918638
+[2022-10-27 16:40:59,488] python INFO  Library sqlalchemy | Batch Size : 30000 | End Time 2022-10-27 16:40:59.488500
+[2022-10-27 16:40:59,488] python INFO
+        ---------------------------
+                    Report
+        ---------------------------
+
+        Library                     : sqlalchemy
+        Batch Size                  : 30000
+        Total Execution Time        : 0:00:01.569862
+        Total Execution Time Sec    : 1.569862
+        Total Execution Time MS    : 1569.862
+
+
+[2022-10-27 17:23:03,157] python INFO  Library sqlalchemy | Batch Size : 50000 | Start Time 2022-10-27 17:23:03.157092
+[2022-10-27 17:23:05,631] python INFO  Library sqlalchemy | Batch Size : 50000 | End Time 2022-10-27 17:23:05.631566
+[2022-10-27 17:23:05,631] python INFO
+        ---------------------------
+                    Report
+        ---------------------------
+
+        Library                     : sqlalchemy
+        Batch Size                  : 50000
+        Total Execution Time        : 0:00:02.474474
+        Total Execution Time Sec    : 2.474474
+        Total Execution Time MS    : 2474.4739999999997
+
+
