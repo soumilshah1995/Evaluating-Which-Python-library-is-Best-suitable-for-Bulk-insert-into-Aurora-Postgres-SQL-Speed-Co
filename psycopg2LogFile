@@ -1,0 +1,98 @@
+[2022-10-27 12:41:33,669] python INFO  Library psycopg2 | Batch Size : 100 | Start Time 2022-10-27 12:41:33.669489 
+[2022-10-27 12:41:37,836] python INFO  Library psycopg2 | Batch Size : 100 | End Time 2022-10-27 12:41:37.836290 
+[2022-10-27 12:41:37,837] python INFO 
+        ---------------------------
+                    Report
+        ---------------------------
+        
+        Library                     : psycopg2
+        Batch Size                  : 100
+        Total Execution Time        : 0:00:04.166801
+        Total Execution Time Sec    : 4.166801
+        Total Execution Time MS    : 4166.801
+        
+        
+[2022-10-27 12:42:03,976] python INFO  Library psycopg2 | Batch Size : 500 | Start Time 2022-10-27 12:42:03.976640 
+[2022-10-27 12:42:24,263] python INFO  Library psycopg2 | Batch Size : 500 | End Time 2022-10-27 12:42:24.263216 
+[2022-10-27 12:42:24,263] python INFO 
+        ---------------------------
+                    Report
+        ---------------------------
+        
+        Library                     : psycopg2
+        Batch Size                  : 500
+        Total Execution Time        : 0:00:20.286576
+        Total Execution Time Sec    : 20.286576
+        Total Execution Time MS    : 20286.576
+        
+        
+[2022-10-27 12:43:19,571] python INFO  Library psycopg2 | Batch Size : 1000 | Start Time 2022-10-27 12:43:19.571407 
+[2022-10-27 12:44:00,708] python INFO  Library psycopg2 | Batch Size : 1000 | End Time 2022-10-27 12:44:00.708849 
+[2022-10-27 12:44:00,708] python INFO 
+        ---------------------------
+                    Report
+        ---------------------------
+        
+        Library                     : psycopg2
+        Batch Size                  : 1000
+        Total Execution Time        : 0:00:41.137442
+        Total Execution Time Sec    : 41.137442
+        Total Execution Time MS    : 41137.442
+        
+        
+[2022-10-27 12:53:05,529] python INFO  Library psycopg2 | Batch Size : 10000 | Start Time 2022-10-27 12:53:05.529655 
+[2022-10-27 13:00:04,140] python INFO  Library psycopg2 | Batch Size : 10000 | End Time 2022-10-27 13:00:04.140953 
+[2022-10-27 13:00:04,140] python INFO 
+        ---------------------------
+                    Report
+        ---------------------------
+        
+        Library                     : psycopg2
+        Batch Size                  : 10000
+        Total Execution Time        : 0:06:58.611298
+        Total Execution Time Sec    : 418.611298
+        Total Execution Time MS    : 418611.29799999995
+        
+        
+[2022-10-27 13:27:26,333] python INFO  Library psycopg2 | Batch Size : 30000 | Start Time 2022-10-27 13:27:26.333080 
+[2022-10-27 13:48:14,405] python INFO  Library psycopg2 | Batch Size : 30000 | End Time 2022-10-27 13:48:14.405044 
+[2022-10-27 13:48:14,405] python INFO 
+        ---------------------------
+                    Report
+        ---------------------------
+        
+        Library                     : psycopg2
+        Batch Size                  : 30000
+        Total Execution Time        : 0:20:48.071964
+        Total Execution Time Sec    : 1248.071964
+        Total Execution Time MS    : 1248071.964
+        
+        
+[2022-10-27 14:35:06,948] python INFO  Library psycopg2 | Batch Size : 50000 | Start Time 2022-10-27 14:35:06.948310 
+[2022-10-27 15:10:04,584] python INFO  Library psycopg2 | Batch Size : 50000 | End Time 2022-10-27 15:10:04.584410 
+[2022-10-27 15:10:04,585] python INFO 
+        ---------------------------
+                    Report
+        ---------------------------
+        
+        Library                     : psycopg2
+        Batch Size                  : 50000
+        Total Execution Time        : 0:34:57.636100
+        Total Execution Time Sec    : 2097.6361
+        Total Execution Time MS    : 2097636.1
+        
+        
+[2022-10-27 16:50:01,518] python INFO  Library psycopg2 | Batch Size : 100000 | Start Time 2022-10-27 16:50:01.518787 
+[2022-10-27 18:02:52,093] python INFO  Library psycopg2 | Batch Size : 100000 | End Time 2022-10-27 18:02:52.092546 
+[2022-10-27 18:02:52,093] python INFO 
+        ---------------------------
+                    Report
+        ---------------------------
+        
+        Library                     : psycopg2
+        Batch Size                  : 100000
+        Total Execution Time        : 1:12:50.573759
+        Total Execution Time Sec    : 4370.573759
+        Total Execution Time MS    : 4370573.759
+        
+        
