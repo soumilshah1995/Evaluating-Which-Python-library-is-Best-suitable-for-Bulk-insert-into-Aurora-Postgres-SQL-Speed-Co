@@ -1,0 +1,216 @@
+[2022-11-05 12:42:45,874] python INFO 
+    ---------------------------
+        Report
+    ---------------------------
+
+    Library                     : psycopg2
+    Batch Size                  : 100
+    Total Execution Time        : 0:00:00.105030
+    Total Execution Time Sec    : 0.10503
+    Total Execution Time MS    : 105.03
+
+    
+[2022-11-05 12:42:46,279] python INFO 
+    ---------------------------
+        Report
+    ---------------------------
+
+    Library                     : psycopg2
+    Batch Size                  : 500
+    Total Execution Time        : 0:00:00.401870
+    Total Execution Time Sec    : 0.40187
+    Total Execution Time MS    : 401.87
+
+    
+[2022-11-05 12:42:47,012] python INFO 
+    ---------------------------
+        Report
+    ---------------------------
+
+    Library                     : psycopg2
+    Batch Size                  : 1000
+    Total Execution Time        : 0:00:00.733407
+    Total Execution Time Sec    : 0.733407
+    Total Execution Time MS    : 733.407
+
+    
+[2022-11-05 12:42:53,379] python INFO 
+    ---------------------------
+        Report
+    ---------------------------
+
+    Library                     : psycopg2
+    Batch Size                  : 10000
+    Total Execution Time        : 0:00:06.365941
+    Total Execution Time Sec    : 6.365941
+    Total Execution Time MS    : 6365.941000000001
+
+    
+[2022-11-05 12:43:12,387] python INFO 
+    ---------------------------
+        Report
+    ---------------------------
+
+    Library                     : psycopg2
+    Batch Size                  : 30000
+    Total Execution Time        : 0:00:19.007658
+    Total Execution Time Sec    : 19.007658
+    Total Execution Time MS    : 19007.658
+
+    
+[2022-11-05 12:43:43,608] python INFO 
+    ---------------------------
+        Report
+    ---------------------------
+
+    Library                     : psycopg2
+    Batch Size                  : 50000
+    Total Execution Time        : 0:00:31.220914
+    Total Execution Time Sec    : 31.220914
+    Total Execution Time MS    : 31220.914
+
+    
+[2022-11-05 12:43:55,446] python INFO 
+    ---------------------------
+        Report
+    ---------------------------
+
+    Library                     : psycopg2
+    Batch Size                  : 100
+    Total Execution Time        : 0:00:04.433265
+    Total Execution Time Sec    : 4.433265
+    Total Execution Time MS    : 4433.264999999999
+
+    
+[2022-11-05 12:44:17,028] python INFO 
+    ---------------------------
+        Report
+    ---------------------------
+
+    Library                     : psycopg2
+    Batch Size                  : 500
+    Total Execution Time        : 0:00:21.581738
+    Total Execution Time Sec    : 21.581738
+    Total Execution Time MS    : 21581.738
+
+    
+[2022-11-05 12:45:00,351] python INFO 
+    ---------------------------
+        Report
+    ---------------------------
+
+    Library                     : psycopg2
+    Batch Size                  : 1000
+    Total Execution Time        : 0:00:43.321510
+    Total Execution Time Sec    : 43.32151
+    Total Execution Time MS    : 43321.51
+
+    
+[2022-11-05 12:52:13,745] python INFO 
+    ---------------------------
+        Report
+    ---------------------------
+
+    Library                     : psycopg2
+    Batch Size                  : 10000
+    Total Execution Time        : 0:07:13.394085
+    Total Execution Time Sec    : 433.394085
+    Total Execution Time MS    : 433394.085
+
+    
+[2022-11-05 13:13:59,550] python INFO 
+    ---------------------------
+        Report
+    ---------------------------
+
+    Library                     : psycopg2
+    Batch Size                  : 30000
+    Total Execution Time        : 0:21:45.804741
+    Total Execution Time Sec    : 1305.804741
+    Total Execution Time MS    : 1305804.741
+
+    
+[2022-11-05 13:50:18,987] python INFO 
+    ---------------------------
+        Report
+    ---------------------------
+
+    Library                     : psycopg2
+    Batch Size                  : 50000
+    Total Execution Time        : 0:36:19.436920
+    Total Execution Time Sec    : 2179.43692
+    Total Execution Time MS    : 2179436.92
+
+    
+[2022-11-05 14:14:47,240] python INFO 
+    ---------------------------
+        Report
+    ---------------------------
+
+    Library                     : sqlalchemy
+    Batch Size                  : 100
+    Total Execution Time        : 0:00:00.855068
+    Total Execution Time Sec    : 0.855068
+    Total Execution Time MS    : 855.0680000000001
+
+    
+[2022-11-05 14:14:47,389] python INFO 
+    ---------------------------
+        Report
+    ---------------------------
+
+    Library                     : sqlalchemy
+    Batch Size                  : 500
+    Total Execution Time        : 0:00:00.149842
+    Total Execution Time Sec    : 0.149842
+    Total Execution Time MS    : 149.842
+
+    
+[2022-11-05 14:14:47,529] python INFO 
+    ---------------------------
+        Report
+    ---------------------------
+
+    Library                     : sqlalchemy
+    Batch Size                  : 1000
+    Total Execution Time        : 0:00:00.135259
+    Total Execution Time Sec    : 0.135259
+    Total Execution Time MS    : 135.259
+
+    
+[2022-11-05 14:14:48,162] python INFO 
+    ---------------------------
+        Report
+    ---------------------------
+
+    Library                     : sqlalchemy
+    Batch Size                  : 10000
+    Total Execution Time        : 0:00:00.632779
+    Total Execution Time Sec    : 0.632779
+    Total Execution Time MS    : 632.779
+
+    
+[2022-11-05 14:14:49,886] python INFO 
+    ---------------------------
+        Report
+    ---------------------------
+
+    Library                     : sqlalchemy
+    Batch Size                  : 30000
+    Total Execution Time        : 0:00:01.722918
+    Total Execution Time Sec    : 1.722918
+    Total Execution Time MS    : 1722.918
+
+    
+[2022-11-05 14:14:52,494] python INFO 
+    ---------------------------
+        Report
+    ---------------------------
+
+    Library                     : sqlalchemy
+    Batch Size                  : 50000
+    Total Execution Time        : 0:00:02.606726
+    Total Execution Time Sec    : 2.606726
+    Total Execution Time MS    : 2606.726
+
+    
