@@ -43,15 +43,12 @@ CREATE TABLE IF NOT EXISTS public.user
 
 # II Results
 
-
 ## psycopg2 executemany
 ![image](https://user-images.githubusercontent.com/39345855/200120223-ff0a9f1f-41fe-4123-936b-53af1ce03a0b.png)
-* Figure 1: Shows Creating SQL table
+
 
 ## psycopg2 execute batch
 ![image](https://user-images.githubusercontent.com/39345855/200120313-2375c168-657e-458a-bfd6-1a7d3e89e579.png)
-
-![image](https://user-images.githubusercontent.com/39345855/200120333-5e1cd2e5-4fe2-4723-93fe-9cea59ae7c41.png)
 * It won't matter too much if you are working with tiny amounts of data. But as the size of the data grows, it will definitely get more interesting to explore and use these alternative methods to speed up the process up to 13 times!
 
 # SQL alchemy Insert Many 
