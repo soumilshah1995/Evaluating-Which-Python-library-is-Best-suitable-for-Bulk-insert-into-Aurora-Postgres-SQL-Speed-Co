@@ -43,14 +43,9 @@ CREATE TABLE IF NOT EXISTS public.user
 
 # II Results
 
+## psycopg2 executemany
 ![image](https://user-images.githubusercontent.com/39345855/200120223-ff0a9f1f-41fe-4123-936b-53af1ce03a0b.png)
 * Figure 1: Shows Creating SQL table
-
-* After creating the Table, we shall be inserting data into this tables in batches with some common libraries used for Aurora and shall measure the time it takes to insert batches of data and derive insights which is faster in terms of speed.
-
-#### Results
-![image](https://user-images.githubusercontent.com/39345855/200120248-f69bce1a-b58c-4cfe-aaf4-c379af263a81.png)
-
 
 
 
