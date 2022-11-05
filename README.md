@@ -26,5 +26,15 @@
 
 
 
+References
+* Aurora PostgreSQL Insert Many Performances Test Using Various Python Library. Accessed 27 Oct. 2022.
+
+* “SQLAlchemy.” Pypi, pypi.org/project/SQLAlchemy. Accessed 27 Oct. 2022.
+
+* “Psycopg2.” Psycopg2, pypi.org/project/psycopg2. Accessed 27 Oct. 2022.
+
+* “Pandas to PostgreSQL Using Psycopg2: Bulk Insert Performance Benchmark.” Naysan, naysan.ca/2020/05/09/pandas-to-postgresql-using-psycopg2-bulk-insert-performance-benchmark. Accessed 27 Oct. 2022.
+
+* “Improve Your Psycopg2 Executions for PostgreSQL in Python.” Datacareer, www.datacareer.de/blog/improve-your-psycopg2-executions-for-postgresql-in-python. Accessed 27 Oct. 2022.
 
 
