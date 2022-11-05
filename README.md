@@ -54,6 +54,21 @@ CREATE TABLE IF NOT EXISTS public.user
 ![image](https://user-images.githubusercontent.com/39345855/200120333-5e1cd2e5-4fe2-4723-93fe-9cea59ae7c41.png)
 * The difference in performance between "excutemany" and "execute batch" is due to the fact that "excutemany" makes fewer server roundtrips, making it slower than "execute batch". This is accomplished by combining the statements until the page size is attained (usually 8kB in Postgres). Let's evaluate the effectiveness. As we showed, there are significant performance disparities between the various Psycopg2 execution strategies. It won't matter too much if you are working with tiny amounts of data. But as the size of the data grows, it will definitely get more interesting to explore and use these alternative methods to speed up the process up to 13 times!
 
+# SQL alchemy Insert Many 
+![image](https://user-images.githubusercontent.com/39345855/200120362-2d18ae5f-ac8c-468a-97c4-261a4fd35628.png)
+
+# Comparison 
+![image](https://user-images.githubusercontent.com/39345855/200120373-1d9e84bc-5699-411c-83c7-520a22f1b8c5.png)
+
+# Conclusion
+
+* SqlAlchemy should always be the primary option when working with and entering bulk items into AWS Aurora because it is obvious from testing that it is a faster approach to insert data into Aurora PostgreSQL. When compared to psycopg2(executemany), VS SqlAlchemy is almost 60 to 70% faster. Comparing batch Size 30,000 Bulk Insert using psycopg2(executemany) we found it took around 1248 seconds vs when using psycopg2(execute_batch_method ) took 19.4 seconds VS SQLAlchemy took only 1.5 seconds.
+
+# Future Work :
+* I will do further tests to make sure the results are accurate. I would want to assess the Read Speed later. For bulk reads, which library would be better?
+
+# Do not hesitate to fork the repository, contribute your discoveries, and submit a merge request.
+
 
 
 
