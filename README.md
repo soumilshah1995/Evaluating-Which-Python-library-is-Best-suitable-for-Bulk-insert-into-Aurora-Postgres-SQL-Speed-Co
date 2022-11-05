@@ -10,3 +10,21 @@
 
 ###### Overview:
 * Amazon Aurora PostgreSQL is a fully managed, PostgreSQL–compatible, and ACID–compliant relational database engine that combines the speed, reliability, and manageability of Amazon Aurora with the simplicity and cost-effectiveness of open-source databases. Aurora PostgreSQL is a drop-in replacement for PostgreSQL and makes it simple and cost-effective to set up, operate, and scale your new and existing PostgreSQL deployments, thus freeing you to focus on your business and applications. In this I wanted to test various python libraries for speed and performance and present the findings with community 
+
+----------------------------------------------------------------------
+#  Introduction 
+
+* The most well-known PostgreSQL database adapter for Python is called Pycopg. The full implementation of the Python DB API 2.0 specification and thread safety are its key features (several threads can share the same connection). It was created for heavily multi-threaded programs that make a lot of concurrent "INSERT" or "UPDATE" requests and generate a lot of cursor creation and destruction.
+* The most well-known PostgreSQL database adapter for Python is called Pycopg. The full implementation of the Python DB API 2.0 specification and thread safety are its key features (several threads can share the same connection). It was created for heavily multi-threaded programs that make a lot of concurrent "INSERT" or "UPDATE" requests and generate a lot of cursor creation and destruction.
+* Under the terms of the MIT License, SQLAlchemy is an open-source SQL toolkit and object-relational mapper for Python. The Python SQL toolkit and Object Relational Mapper, SQLAlchemy, provides application developers with all of SQL's functionality and versatility. It offers a complete set of well-known enterprise-level persistence patterns created for fast, effective database access and translated into a straightforward, Pythonic domain language.
+* The ease of implementation, speedy code development, and lack of need for prior SQL knowledge are all reasons why SQLAlchemy is so well-liked. The high-level approach is emphasized in practically all online programming tutorials and courses for this reason. The majority of working software engineers also appear to choose SQLAlchemy.
+
+
+# Aurora PostgreSQL SQL Configuration  
+
+![image](https://user-images.githubusercontent.com/39345855/200120146-eb752476-8217-4f00-a91a-475d00cd79d4.png)
+
+
+
+
+
