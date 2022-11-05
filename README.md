@@ -52,7 +52,7 @@ CREATE TABLE IF NOT EXISTS public.user
 ![image](https://user-images.githubusercontent.com/39345855/200120313-2375c168-657e-458a-bfd6-1a7d3e89e579.png)
 
 ![image](https://user-images.githubusercontent.com/39345855/200120333-5e1cd2e5-4fe2-4723-93fe-9cea59ae7c41.png)
-* The difference in performance between "excutemany" and "execute batch" is due to the fact that "excutemany" makes fewer server roundtrips, making it slower than "execute batch". This is accomplished by combining the statements until the page size is attained (usually 8kB in Postgres). Let's evaluate the effectiveness. As we showed, there are significant performance disparities between the various Psycopg2 execution strategies. It won't matter too much if you are working with tiny amounts of data. But as the size of the data grows, it will definitely get more interesting to explore and use these alternative methods to speed up the process up to 13 times!
+* It won't matter too much if you are working with tiny amounts of data. But as the size of the data grows, it will definitely get more interesting to explore and use these alternative methods to speed up the process up to 13 times!
 
 # SQL alchemy Insert Many 
 ![image](https://user-images.githubusercontent.com/39345855/200120362-2d18ae5f-ac8c-468a-97c4-261a4fd35628.png)
